@@ -1,0 +1,163 @@
+# depslib dependency file v1.0
+1668273229 source:z:\desktop\cs250_desktop\dnd\dnd\src\item.cpp
+	"Item.h"
+
+1668273228 z:\desktop\cs250_desktop\dnd\dnd\include\item.h
+	<iostream>
+	<string>
+
+1668869842 source:z:\desktop\cs250_desktop\dnd\dnd\src\biology.cpp
+	"Biology.h"
+	<random>
+	<ctime>
+	<iostream>
+	<string>
+
+1668869247 z:\desktop\cs250_desktop\dnd\dnd\include\biology.h
+	<random>
+	<ctime>
+	<iostream>
+	<string>
+
+1670109399 source:c:\users\lewis\desktop\cs 250\dnd\dnd\src\item.cpp
+	"Item.h"
+
+1669205657 c:\users\lewis\desktop\cs 250\dnd\dnd\include\item.h
+	<iostream>
+	<string>
+
+1670119395 source:c:\users\lewis\desktop\cs 250\dnd\dnd\main.cpp
+	<iostream>
+	<string>
+	<random>
+	<ctime>
+	"Biology.h"
+	"Race.h"
+	"Profession.h"
+	"Character.h"
+
+1670112045 c:\users\lewis\desktop\cs 250\dnd\dnd\include\biology.h
+	<iostream>
+	<string>
+
+1670112077 c:\users\lewis\desktop\cs 250\dnd\dnd\include\race.h
+	<iostream>
+	"Biology.h"
+
+1670112109 c:\users\lewis\desktop\cs 250\dnd\dnd\include\profession.h
+	<iostream>
+	"Biology.h"
+	"Race.h"
+
+1670112191 c:\users\lewis\desktop\cs 250\dnd\dnd\include\character.h
+	<string>
+	"Biology.h"
+	"Race.h"
+	"Profession.h"
+	"Item.h"
+
+1670278637 source:c:\users\lewis\desktop\cs 250\dnd\dnd\src\character.cpp
+	"Character.h"
+	"Biology.h"
+	"Race.h"
+	"Profession.h"
+	"Item.h"
+	<random>
+	<ctime>
+	<iostream>
+	<string>
+
+1670112109 source:c:\users\lewis\desktop\cs 250\dnd\dnd\src\profession.cpp
+	"Profession.h"
+	"Biology.h"
+	"Race.h"
+	<random>
+	<ctime>
+	<iostream>
+	<string>
+
+1670112077 source:c:\users\lewis\desktop\cs 250\dnd\dnd\src\race.cpp
+	"Race.h"
+	"Biology.h"
+	<random>
+	<ctime>
+	<iostream>
+	<string>
+
+1670112045 source:c:\users\lewis\desktop\cs 250\dnd\dnd\src\biology.cpp
+	"Biology.h"
+	<random>
+	<ctime>
+	<iostream>
+	<string>
+
+1669313691 source:\\ecs-homedirs.cs.odu.edu\homedirs\undergrad\cs_jlewi035\desktop\cs250_desktop\dnd\dnd\main.cpp
+	<iostream>
+	<string>
+	<random>
+	<ctime>
+	"Biology.h"
+	"Race.h"
+	"Profession.h"
+	"Character.h"
+
+1670078404 \\ecs-homedirs.cs.odu.edu\homedirs\undergrad\cs_jlewi035\desktop\cs250_desktop\dnd\dnd\include\biology.h
+	<iostream>
+	<string>
+
+1668985161 \\ecs-homedirs.cs.odu.edu\homedirs\undergrad\cs_jlewi035\desktop\cs250_desktop\dnd\dnd\include\race.h
+	<iostream>
+	"Biology.h"
+
+1669226835 \\ecs-homedirs.cs.odu.edu\homedirs\undergrad\cs_jlewi035\desktop\cs250_desktop\dnd\dnd\include\profession.h
+	<iostream>
+	"Biology.h"
+	"Race.h"
+
+1669219213 \\ecs-homedirs.cs.odu.edu\homedirs\undergrad\cs_jlewi035\desktop\cs250_desktop\dnd\dnd\include\character.h
+	<string>
+	"Biology.h"
+	"Race.h"
+	"Profession.h"
+	"Item.h"
+
+1669205657 \\ecs-homedirs.cs.odu.edu\homedirs\undergrad\cs_jlewi035\desktop\cs250_desktop\dnd\dnd\include\item.h
+	<iostream>
+	<string>
+
+1669311754 source:\\ecs-homedirs.cs.odu.edu\homedirs\undergrad\cs_jlewi035\desktop\cs250_desktop\dnd\dnd\src\biology.cpp
+	"Biology.h"
+	<random>
+	<ctime>
+	<iostream>
+	<string>
+
+1669227951 source:\\ecs-homedirs.cs.odu.edu\homedirs\undergrad\cs_jlewi035\desktop\cs250_desktop\dnd\dnd\src\character.cpp
+	"Character.h"
+	"Biology.h"
+	"Race.h"
+	"Profession.h"
+	"Item.h"
+	<iostream>
+	<string>
+
+1669205254 source:\\ecs-homedirs.cs.odu.edu\homedirs\undergrad\cs_jlewi035\desktop\cs250_desktop\dnd\dnd\src\item.cpp
+	"Item.h"
+
+1669218618 source:\\ecs-homedirs.cs.odu.edu\homedirs\undergrad\cs_jlewi035\desktop\cs250_desktop\dnd\dnd\src\profession.cpp
+	"Profession.h"
+	"Biology.h"
+	"Race.h"
+	<random>
+	<ctime>
+	<iostream>
+	<string>
+
+1669218391 source:\\ecs-homedirs.cs.odu.edu\homedirs\undergrad\cs_jlewi035\desktop\cs250_desktop\dnd\dnd\src\race.cpp
+	"Race.h"
+	"Biology.h"
+	<random>
+	<ctime>
+	<iostream>
+	<string>
+

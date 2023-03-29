@@ -1,0 +1,73 @@
+# depslib dependency file v1.0
+1670283743 source:c:\users\lewis\desktop\resume\dnd_character_generator\main.cpp
+	<iostream>
+	<string>
+	<random>
+	<ctime>
+	"Biology.h"
+	"Race.h"
+	"Profession.h"
+	"Character.h"
+
+1670115645 c:\users\lewis\desktop\resume\dnd_character_generator\include\biology.h
+	<iostream>
+	<string>
+
+1670115677 c:\users\lewis\desktop\resume\dnd_character_generator\include\race.h
+	<iostream>
+	"Biology.h"
+
+1670115709 c:\users\lewis\desktop\resume\dnd_character_generator\include\profession.h
+	<iostream>
+	"Biology.h"
+	"Race.h"
+
+1670115791 c:\users\lewis\desktop\resume\dnd_character_generator\include\character.h
+	<string>
+	"Biology.h"
+	"Race.h"
+	"Profession.h"
+	"Item.h"
+
+1669209257 c:\users\lewis\desktop\resume\dnd_character_generator\include\item.h
+	<iostream>
+	<string>
+
+1670115645 source:c:\users\lewis\desktop\resume\dnd_character_generator\src\biology.cpp
+	"Biology.h"
+	<random>
+	<ctime>
+	<iostream>
+	<string>
+
+1670283731 source:c:\users\lewis\desktop\resume\dnd_character_generator\src\character.cpp
+	"Character.h"
+	"Biology.h"
+	"Race.h"
+	"Profession.h"
+	"Item.h"
+	<random>
+	<ctime>
+	<iostream>
+	<string>
+
+1670112999 source:c:\users\lewis\desktop\resume\dnd_character_generator\src\item.cpp
+	"Item.h"
+
+1670115709 source:c:\users\lewis\desktop\resume\dnd_character_generator\src\profession.cpp
+	"Profession.h"
+	"Biology.h"
+	"Race.h"
+	<random>
+	<ctime>
+	<iostream>
+	<string>
+
+1670115677 source:c:\users\lewis\desktop\resume\dnd_character_generator\src\race.cpp
+	"Race.h"
+	"Biology.h"
+	<random>
+	<ctime>
+	<iostream>
+	<string>
+
